@@ -1,6 +1,6 @@
 {
-    "latest_version": "1.4",
+    "latest_version": "1.5",
     "download_url": "https://www.dropbox.com/scl/fi/q48dsbcck6x34eg67mvkx/setup.exe?rlkey=435zzebyf04urjzgk6l7b21ix&st=cuu143j0&dl=1",
-    "note": "#change dl=0 to dl=1",
+    "note": "change dl=0 to dl=1 on dropbox link",
     "setup_size": 102.14
   }
