@@ -1,6 +1,6 @@
 {
-    "latest_version": "3.9",
-    "download_url": "https://www.dropbox.com/scl/fi/q48dsbcck6x34eg67mvkx/setup.exe?rlkey=435zzebyf04urjzgk6l7b21ix&st=mi0t0yp3&dl=1",
+    "latest_version": "3.91",
+    "download_url": "https://www.dropbox.com/scl/fi/q48dsbcck6x34eg67mvkx/setup.exe?rlkey=435zzebyf04urjzgk6l7b21ix&st=e7hvkmwp&dl=1",
     "note": "change dl=0 to dl=1 in dropbox link",
     "setup_size": 107.05
   }
